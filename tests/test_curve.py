@@ -1,3 +1,6 @@
+import sys
+sys.path.append('/media/DarkDim/Github/thesis/src')  
+
 import unittest
 from snake_curve import snake
 
